@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
-This is the game of Tic Tac Toe against AI made in Python.
+#This is the game of Tic Tac Toe against AI made in Python.
 
 def ConstBoard(board):
   print("Current State of the Board: \n");    #-1=x, 1=O, blanks=0
